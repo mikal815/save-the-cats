@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font: normal 16px Helvetica, Arial, sans-serif;
+  margin: 20px;
+}
+
+#stc {
+  text-align: center;
+  color: blue;
+
+}
