@@ -10,5 +10,12 @@ body {
 #stc {
   text-align: center;
   color: blue;
+  font-size: 24px;
+  font-weight: bold;
+  background: rgb(140, 191, 226);
+}
 
+#cat-face {
+  float: right;
+  width: 50%;
 }
