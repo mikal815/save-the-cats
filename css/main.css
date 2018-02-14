@@ -47,3 +47,18 @@ h4 {
   width: 100%;
   background: url("../img/cat_bg_home.jpg");
 }
+
+.rescue {
+  background-color: purple;
+  color: white;
+  text-align: center;
+  width: 200px;
+  width: 100%;
+  border: 1px solid green;
+  font-size: 1em;
+  line-height: 30px;
+}
+
+.rstories {
+  background-color: white;
+}
