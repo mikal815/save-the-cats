@@ -7,6 +7,27 @@ body {
   margin: 20px;
 }
 
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-size: 32px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 28px;
+  padding-bottom: 10px;
+}
+
+h4 {
+  font-size: 24px;
+  padding-bottom: 10px;
+}
+
 #stc {
   text-align: center;
   color: blue;
