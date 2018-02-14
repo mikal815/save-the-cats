@@ -94,3 +94,15 @@ ul {
 .rstories {
   background-color: white;
 }
+
+.col {
+  float: left;
+  width: 50%;
+}
+
+.title {
+  text-align: center;
+  border: 3px solid black;
+  padding-left: 0 10px;
+  padding-right: 0;
+}
