@@ -4,7 +4,17 @@
 
 body {
   font: normal 16px Helvetica, Arial, sans-serif;
-  margin: 20px;
+  padding: 20px;
+}
+
+ul.nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li.nav {
+  display: inline;
 }
 
 h1 {
@@ -38,7 +48,7 @@ p {
   margin: 10px 0px;
 }
 
-ul {
+ul.facts {
   text-decoration-style: solid;
   list-style-type: circle;
   line-height: 24px;
@@ -61,7 +71,6 @@ ul {
 #stc {
   text-align: center;
   color: blue;
-<<<<<<< HEAD
   font-size: 24px;
   font-weight: bold;
   background: rgb(140, 191, 226);
@@ -70,8 +79,6 @@ ul {
 #cat-face {
   float: right;
   width: 50%;
-=======
->>>>>>> 103188c9b0fee8da78122c60b7112236dce7a407
 }
 
 .container {
@@ -91,10 +98,38 @@ ul {
   background-position:center bottom;
 }
 
+<<<<<<< HEAD
 .donate-blurb {
   padding: 15px;
 }
 
 .donation-blurb-2 {
   margin: 15px;
+=======
+.rescue {
+  background-color: purple;
+  color: white;
+  text-align: center;
+  width: 200px;
+  width: 100%;
+  border: 1px solid green;
+  font-size: 1em;
+  line-height: 30px;
+}
+
+.rstories {
+  background-color: white;
+}
+
+.col {
+  float: left;
+  width: 50%;
+}
+
+.title {
+  text-align: center;
+  border: 3px solid black;
+  padding-left: 0 10px;
+  padding-right: 0;
+>>>>>>> 942e2063db29d002458257c8e7c480514ff75c39
 }
