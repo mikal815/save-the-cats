@@ -8,29 +8,60 @@ body {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 46px;
   font-weight: bold;
+  line-height: 50px;
   padding-bottom: 10px;
 }
 
 h2 {
   font-size: 32px;
+  line-height: 36px;
   padding-bottom: 10px;
 }
 
 h3 {
   font-size: 28px;
+  line-height: 32px;
   padding-bottom: 10px;
 }
 
 h4 {
   font-size: 24px;
+  line-height: 28px;
   padding-bottom: 10px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 20px;
+  margin: 10px 0px;
+}
+
+ul {
+  text-decoration-style: solid;
+  list-style-type: circle;
+  line-height: 24px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+}
+
+.row {
+  clear: both;
+  overflow: auto;
+}
+
+.column {
+  text-align: center;
+  padding: 10px;
+  width: 50%;
+  float: left;
 }
 
 #stc {
   text-align: center;
   color: blue;
+<<<<<<< HEAD
   font-size: 24px;
   font-weight: bold;
   background: rgb(140, 191, 226);
@@ -39,6 +70,8 @@ h4 {
 #cat-face {
   float: right;
   width: 50%;
+=======
+>>>>>>> 103188c9b0fee8da78122c60b7112236dce7a407
 }
 
 .container {
@@ -53,4 +86,15 @@ h4 {
   height: 100%;
   width: 100%;
   background: url("../img/cat_bg_home.jpg");
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center bottom;
+}
+
+.donate-blurb {
+  padding: 15px;
+}
+
+.donation-blurb-2 {
+  margin: 15px;
 }
