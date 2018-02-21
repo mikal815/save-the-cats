@@ -83,9 +83,9 @@ ul.facts {
 
 .container {
   position: absolute;
-  top: 0;
   left: 0;
   width: 100%;
+  top: 0;
   height: 100%;
 }
 
@@ -105,7 +105,8 @@ ul.facts {
 
 .donation-blurb-2 {
   margin: 15px;
-=======
+}
+
 .rescue {
   background-color: purple;
   color: white;
@@ -131,5 +132,4 @@ ul.facts {
   border: 3px solid black;
   padding-left: 0 10px;
   padding-right: 0;
->>>>>>> 942e2063db29d002458257c8e7c480514ff75c39
 }
